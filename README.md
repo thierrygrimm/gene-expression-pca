@@ -1,7 +1,7 @@
 GeneExpressionPCA [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFQXNQ7UYXYKW&source=url)
 =======
 
-[GeneExpressionPCA](https://github.com/thierrygrimm/tictactoeponzi) is a Principal Component Analysis of Gene Expression data.  scheme. Check the rules for further details.
+[GeneExpressionPCA](https://github.com/thierrygrimm/tictactoeponzi) is a Principal Component Analysis of Gene Expression data.  Check the rules for further details.
 
 ## Biochemical Foundations
 The signaling pathway regulating the activity of the mammalian ```target of rapamycin complex 1 (mTORC1)``` controls skeletal muscle homeostasis, which is determined by the difference in the rates of protein synthesis and degradation. 
