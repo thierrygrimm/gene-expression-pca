@@ -1,7 +1,13 @@
 ![Example](Images/GeneExpression.png "Example")
 
-GeneExpressionPCA [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFQXNQ7UYXYKW&source=url)
-=======
+# GeneExpressionPCA [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EFQXNQ7UYXYKW&source=url)
+<div align='left'>
+
+[![](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white 'Jupyter')](http://jupyter.org)
+[![](https://img.shields.io/badge/scikitlearn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white 'Scikit-learn')](https://scikit-learn.org)
+[![](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white 'Numpy')](https://numpy.org)
+[![](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white 'Pandas')](https://pandas.pydata.org)
+</div>
 
 <details>
   <summary>Table of Contents</summary>
@@ -140,7 +146,7 @@ The replicates were clustered with a k-means algorithm according to their expres
 ## Issues
 
 Found a bug? Want more features? Find something missing in the documentation? Let us know! Please don't hesitate
-to [file an issue](https://github.com/thierrygrimm/GeneExpressionPCA/issues/new) and make a recommendation.
+to [file an issue](https://github.com/thierrygrimm/gene-expression-pca/issues/new) and make a recommendation.
 
 ## License
 
